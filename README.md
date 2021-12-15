@@ -9,8 +9,6 @@
 - 🔗<a href="http://201.55.33.89/si/2020/0200832011014/index.html" target="_blank">Pagina pessoal</a>
 
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=jcsfran&show_icons=true&show_icons=true&count_private=true&theme=dark)
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=jcsfran)](https://github.com/anuraghazra/github-readme-stats)
-
 
 <div style="display: inline_block"><br>
   <h2>Algumas das linguagens que já vi</h2>
