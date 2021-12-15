@@ -8,14 +8,10 @@
 - 😄 Pronomes: ele/dele
 - 🔗<a href="http://201.55.33.89/si/2020/0200832011014/index.html" target="_blank">Pagina pessoal</a>
 
-<!-- 
-<div align="center">
-  <a href="https://github.com/jcsfran">
-  <img height="140em" src="https://github-readme-stats.vercel.app/api?username=jcsfran&show_icons=true&theme=dark&include_all_commits=true&count_private=true"/>
-  <img height="140em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=jcsfran&layout=compact&langs_count=7&theme=dark" commits=true&count_private=true"/>
-</div>
- -->
- 
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=jcsfran&show_icons=true&show_icons=true&count_private=true&theme=dark)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=jcsfran)](https://github.com/anuraghazra/github-readme-stats)
+
+
 <div style="display: inline_block"><br>
   <h2>Algumas das linguagens que já vi</h2>
   <img align="center" alt="Julio-Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
