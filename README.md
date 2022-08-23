@@ -1,8 +1,8 @@
 ### Olá, eu sou o Julio Cesar 👋
 
 - 🔭 Atualmente procuro trabalhos de backend
-- 🌱 Estudando php e js
-- 💬 Tenho 20 anos e curso Sistemas para Internet na Fatec Jahu
+- 🌱 Estudando Laravel e node
+- 💬 Tenho 21 anos e curso Sistemas para Internet na Fatec Jahu
 - 📫 Contato: julio.csfran@gmail.com
 -  📱 Telefone: 14 998661198
 - 😄 Pronomes: ele/dele
