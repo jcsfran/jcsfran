@@ -11,7 +11,7 @@
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=jcsfran&show_icons=true&show_icons=true&count_private=true&theme=dark&locale=pt-BR)
 
 <div style="display: inline_block"><br>
-  <h2>Algumas das linguagens que já vi</h2>
+  <h2>Algumas das linguagens e ferramentas que já usei</h2>
   <img align="center" alt="Julio-Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
   <img align="center" alt="Julio-HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
   <img align="center" alt="Julio-CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
