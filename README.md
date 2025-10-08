@@ -1,6 +1,6 @@
 ## Olá, eu sou o Julio Cesar 👋
 
-- 💬 Tenho 22 anos e atualmente atuo como Tech Lead na 🧪 [Labi9](https://labi9.com/)
+- 💬 Tenho 24 anos e atualmente atuo como Tech Lead na 🧪 [Labi9](https://labi9.com/)
 - 📫 E-mail de contato: jcsfran.dev@gmail.com
 - 📱 Celular: (14) 998661198
 - 😄 Pronomes: ele/dele
