@@ -1,10 +1,8 @@
 ## Olá, eu sou o Julio Cesar 👋
 
-- 💬 Tenho 24 anos e atualmente atuo como Tech Lead na 🧪 [Labi9](https://labi9.com/)
+- 💬 Tenho 25 anos e atualmente atuo como Tech Lead na 🧪 [Labi9](https://labi9.com/)
 - 📫 E-mail de contato: jcsfran.dev@gmail.com
 - 📱 Celular: (14) 998661198
-- 😄 Pronomes: ele/dele
-- 🔗 [Pagina pessoal da Fatec](http://201.55.33.89/si/2020/0200832011014/index.html/) (desatualizado)
 
 ## Formações 🎓
 - 📚 Técnico em Informática, ETEC (2019)
